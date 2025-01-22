@@ -39,7 +39,7 @@ Why Hire Me?
 
 I look forward to building a long-term relationship.
 
-Please feel free to contact me.
+Please feel free to <a href="mailto:armsteaddaylin95@gmail.com">contact me.</a>
 
 ---
 
