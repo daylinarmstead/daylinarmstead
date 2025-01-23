@@ -88,5 +88,7 @@ Please feel free to <a href="mailto:armsteaddaylin95@gmail.com">contact me.</a>
 ---
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&hide_progress=true)
+
 </div>
