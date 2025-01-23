@@ -87,12 +87,6 @@ Please feel free to <a href="mailto:armsteaddaylin95@gmail.com">contact me.</a>
 
 ---
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&hide=javascript,html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylinarmstead&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
+</div>
